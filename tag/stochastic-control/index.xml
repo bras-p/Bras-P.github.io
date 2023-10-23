@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stochastic Control | Pierre Bras's research website</title><link>https://perso.lpsm.paris/~pbras/tag/stochastic-control/</link><atom:link href="https://perso.lpsm.paris/~pbras/tag/stochastic-control/index.xml" rel="self" type="application/rss+xml"/><description>Stochastic Control</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://perso.lpsm.paris/~pbras/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Stochastic Control</title><link>https://perso.lpsm.paris/~pbras/tag/stochastic-control/</link></image><item><title>Adaptive Gradient Langevin Algorithms for Stochastic Optimization and Bayesian Inference</title><link>https://perso.lpsm.paris/~pbras/publication/phd/</link><pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/phd/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Policy Gradient Optimal Correlation Search for Variance Reduction in Monte Carlo simulation and Maximum Optimal Transport</title><link>https://perso.lpsm.paris/~pbras/publication/correlation_optimal/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/correlation_optimal/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Langevin algorithms for Markovian Neural Networks and Deep Stochastic control</title><link>https://perso.lpsm.paris/~pbras/publication/markovian_nn/</link><pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/markovian_nn/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item></channel></rss>

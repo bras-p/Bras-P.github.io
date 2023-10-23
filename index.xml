@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pierre Bras's research website</title><link>https://perso.lpsm.paris/~pbras/</link><atom:link href="https://perso.lpsm.paris/~pbras/index.xml" rel="self" type="application/rss+xml"/><description>Pierre Bras's research website</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate><image><url>https://perso.lpsm.paris/~pbras/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Pierre Bras's research website</title><link>https://perso.lpsm.paris/~pbras/</link></image><item><title>Adaptive Gradient Langevin Algorithms for Stochastic Optimization and Bayesian Inference</title><link>https://perso.lpsm.paris/~pbras/publication/phd/</link><pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/phd/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Policy Gradient Optimal Correlation Search for Variance Reduction in Monte Carlo simulation and Maximum Optimal Transport</title><link>https://perso.lpsm.paris/~pbras/publication/correlation_optimal/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/correlation_optimal/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>relocor: REinforcement Learning Optimal CORrelation search</title><link>https://perso.lpsm.paris/~pbras/project/relocor/</link><pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/project/relocor/</guid><description/></item><item><title>14th International Conference on Monte Carlo Methods and Applications</title><link>https://perso.lpsm.paris/~pbras/talk/14th-international-conference-on-monte-carlo-methods-and-applications/</link><pubDate>Wed, 28 Jun 2023 12:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/14th-international-conference-on-monte-carlo-methods-and-applications/</guid><description>&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/Langevin-slides-4.pdf">Slides&lt;/a>&lt;/p></description></item><item><title>International Neural Network Society Workshop on Deep Learning Innovations and Applications INNS DLIA 2023</title><link>https://perso.lpsm.paris/~pbras/talk/international-neural-network-society-workshop-on-deep-learning-innovations-and-applications-inns-dlia-2023/</link><pubDate>Fri, 23 Jun 2023 17:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/international-neural-network-society-workshop-on-deep-learning-innovations-and-applications-inns-dlia-2023/</guid><description>&lt;!-- [Slides](/~pbras/Langevin-slides-4.pdf) --></description></item><item><title>International Joint Conference on Neural Networks IJCNN 2023</title><link>https://perso.lpsm.paris/~pbras/talk/international-joint-conference-on-neural-networks-ijcnn-2023/</link><pubDate>Sun, 18 Jun 2023 17:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/international-joint-conference-on-neural-networks-ijcnn-2023/</guid><description>&lt;!-- [Slides](/~pbras/Langevin-slides-4.pdf) --></description></item><item><title>Langevin algorithms for Markovian Neural Networks and Deep Stochastic control</title><link>https://perso.lpsm.paris/~pbras/project/markovian_nn/</link><pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/project/markovian_nn/</guid><description/></item><item><title>Langevin algorithms for Markovian Neural Networks and Deep Stochastic control</title><link>https://perso.lpsm.paris/~pbras/publication/markovian_nn/</link><pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/markovian_nn/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>A note on $L^1$-Convergence of the Empiric Minimizer for unbounded functions with fast growth</title><link>https://perso.lpsm.paris/~pbras/publication/empiric_minimizer/</link><pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/empiric_minimizer/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Langevin algorithms for very deep Neural Networks with applications to image classification</title><link>https://perso.lpsm.paris/~pbras/project/deep_nn/</link><pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/project/deep_nn/</guid><description/></item><item><title>Langevin algorithms for very deep Neural Networks with applications to image classification</title><link>https://perso.lpsm.paris/~pbras/publication/deep_nn/</link><pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/deep_nn/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>CERMICS - Groupe de Travail Méthodes Stochastiques et Finance</title><link>https://perso.lpsm.paris/~pbras/talk/cermics-groupe-de-travail-methodes-stochastiques-et-finance/</link><pubDate>Mon, 05 Dec 2022 17:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/cermics-groupe-de-travail-methodes-stochastiques-et-finance/</guid><description>&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/Langevin-slides-4.pdf">Slides&lt;/a>&lt;/p></description></item><item><title>Groupe de travail des thésards du LPSM</title><link>https://perso.lpsm.paris/~pbras/talk/groupe-de-travail-des-thesards-du-lpsm/</link><pubDate>Mon, 23 May 2022 17:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/groupe-de-travail-des-thesards-du-lpsm/</guid><description>&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/langevin-beamer-2.pdf">Slides&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/publication/langevin">Reference article&lt;/a>&lt;/p></description></item><item><title>Convergence rates of Gibbs measures with degenerate minimum</title><link>https://perso.lpsm.paris/~pbras/project/singular-hessian/</link><pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/project/singular-hessian/</guid><description/></item><item><title>Convergence of Langevin-Simulated Annealing algorithms with multiplicative noise</title><link>https://perso.lpsm.paris/~pbras/project/langevin-sa/</link><pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/project/langevin-sa/</guid><description/></item><item><title>Simulation of Reflected Brownian motion on two dimensional wedges</title><link>https://perso.lpsm.paris/~pbras/project/reflected-brownian-motion/</link><pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/project/reflected-brownian-motion/</guid><description/></item><item><title>Osaka Webinar on Mathematical Finance</title><link>https://perso.lpsm.paris/~pbras/talk/osaka-webinar-on-mathematical-finance/</link><pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/osaka-webinar-on-mathematical-finance/</guid><description>&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/langevin-beamer-1-5.pdf">Slides&lt;/a>&lt;/p></description></item><item><title>Total variation distance between two diffusions in small time with unbounded drift: application to the Euler-Maruyama scheme</title><link>https://perso.lpsm.paris/~pbras/publication/dtv-small-time/</link><pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/dtv-small-time/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>&lt;a href="https://www.lpsm.paris/dw/doku.php?id=users:pages:index" target="_blank" rel="noopener">Gilles Pagès&amp;rsquo; website&lt;/a>&lt;/p>
+&lt;p>&lt;a href="http://blog.univ-angers.fr/panloup/" target="_blank" rel="noopener">Fabien Panloup&amp;rsquo;s website&lt;/a>&lt;/p>
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Legal notice / Mentions légales</title><link>https://perso.lpsm.paris/~pbras/terms/</link><pubDate>Thu, 04 Nov 2021 00:00:00 +0100</pubDate><guid>https://perso.lpsm.paris/~pbras/terms/</guid><description>&lt;h2 id="laboratory--établissement">Laboratory / Établissement&lt;/h2>
+&lt;p>LPSM Laboratoire de Probabilités, Statistiques et Modélisation
+Sorbonne Université
+4 Place Jussieu 75005 Paris France&lt;/p>
+&lt;h2 id="publication-director--directeur-de-publication">Publication director / Directeur de publication&lt;/h2>
+&lt;p>Pierre Bras, PhD Student&lt;/p>
+&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/#contact">Informations de contact / Contact informations&lt;/a>&lt;/p>
+&lt;h2 id="host--hébergeur">Host / Hébergeur&lt;/h2>
+&lt;p>&lt;a href="https://www.lpsm.paris/" target="_blank" rel="noopener">LPSM&lt;/a>&lt;/p></description></item><item><title>Introduction to Entropic Optimal Transport - PhD Seminar</title><link>https://perso.lpsm.paris/~pbras/talk/introduction-to-entropic-optimal-transport-phd-seminar/</link><pubDate>Tue, 19 Oct 2021 10:15:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/introduction-to-entropic-optimal-transport-phd-seminar/</guid><description>&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/Langevin-slides.pdf">Slides&lt;/a>&lt;/p></description></item><item><title>Convergence of Langevin-Simulated Annealing algorithms with multiplicative noise</title><link>https://perso.lpsm.paris/~pbras/publication/langevin/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/langevin/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>&lt;a href="https://www.lpsm.paris/dw/doku.php?id=users:pages:index" target="_blank" rel="noopener">Gilles Pagès&amp;rsquo; website&lt;/a>&lt;/p>
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Convergence of Langevin-Simulated Annealing algorithms with multiplicative noise II: Total Variation</title><link>https://perso.lpsm.paris/~pbras/publication/langevin_dtv/</link><pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/langevin_dtv/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>&lt;a href="https://www.lpsm.paris/dw/doku.php?id=users:pages:index" target="_blank" rel="noopener">Gilles Pagès&amp;rsquo; website&lt;/a>&lt;/p>
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Ritsumeikan University Math-Fi Seminar</title><link>https://perso.lpsm.paris/~pbras/talk/ritsumeikan-university-math-fi-seminar/</link><pubDate>Thu, 10 Jun 2021 09:30:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/ritsumeikan-university-math-fi-seminar/</guid><description>&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/Hilbert-slides.pdf">Slides&lt;/a>&lt;/p></description></item><item><title>Simulation of Reflected Brownian motion on two dimensional wedges</title><link>https://perso.lpsm.paris/~pbras/publication/simulation-wedge/</link><pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/simulation-wedge/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;p>&lt;a href="http://www.ritsumei.ac.jp/~khts00/index.html" target="_blank" rel="noopener">Arturo Kohatsu-Higa&amp;rsquo;s website&lt;/a>&lt;/p>
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Séminaire doctorants</title><link>https://perso.lpsm.paris/~pbras/talk/seminaire-doctorants/</link><pubDate>Thu, 20 May 2021 16:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/talk/seminaire-doctorants/</guid><description>&lt;p>&lt;a href="https://perso.lpsm.paris/~pbras/~pbras/Hilbert-slides.pdf">Slides&lt;/a>&lt;/p></description></item><item><title>Convergence rates of Gibbs measures with degenerate minimum</title><link>https://perso.lpsm.paris/~pbras/publication/hilbert/</link><pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/publication/hilbert/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Slides</title><link>https://perso.lpsm.paris/~pbras/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://perso.lpsm.paris/~pbras/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+print(&amp;quot;Eating...&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;pre>&lt;code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+color: navy;
+}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item></channel></rss>
